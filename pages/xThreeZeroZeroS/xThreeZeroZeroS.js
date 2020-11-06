@@ -1,4 +1,4 @@
-// pages/drivingRecorder/drivingRecorder.js
+// pages/xThreeZeroZeroS/xThreeZeroZeroS.js
 Page({
 
   /**
@@ -7,11 +7,7 @@ Page({
   data: {
 
   },
-  xThreeZeroZeroSdj: function () {
-    wx.navigateTo({
-      url: "../xThreeZeroZeroS/xThreeZeroZeroS"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

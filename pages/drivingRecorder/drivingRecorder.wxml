@@ -5,13 +5,13 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;">
     <image mode="widthFix"
       src="https://img10.360buyimg.com/ddimg/jfs/t1/145849/30/13565/33545/5fa512efEa8b63198/793bb89b53d80eab.jpg">
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="xThreeZeroZeroSdj">
     <image mode="widthFix"
       src="https://img11.360buyimg.com/ddimg/jfs/t1/124998/10/17673/309613/5fa51306E3d37996a/bd27f45933eef8bc.jpg">
     </image>

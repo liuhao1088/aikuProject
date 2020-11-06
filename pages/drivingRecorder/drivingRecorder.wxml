@@ -1,0 +1,47 @@
+<view class="container">
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/136194/21/14892/219894/5fa512dcE37fd15ae/3890962fcfe778cb.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="drivingRecorderdj">
+    <image mode="widthFix"
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/145849/30/13565/33545/5fa512efEa8b63198/793bb89b53d80eab.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="streamMediaRecorderdj">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/124998/10/17673/309613/5fa51306E3d37996a/bd27f45933eef8bc.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="carMachineRecorderdj">
+    <image mode="widthFix"
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/130688/1/15061/226598/5fa5131bE20474bc7/17700b39ad27c7c4.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="hiddenRecorderdj">
+    <image mode="widthFix"
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/123431/37/17728/238121/5fa5132bE7aa14db0/89eddd2565b41cad.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="hiddenRecorderdj">
+    <image mode="widthFix"
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/151969/35/4866/304440/5fa51342Ec3620344/ac982aeb3994029a.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/132310/7/15007/15226/5fa50e68E5845e8a0/cac39f3830f6995f.jpg">
+      </image>
+    </view>
+  </view>
+
+
+</view>

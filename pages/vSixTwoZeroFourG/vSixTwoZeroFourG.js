@@ -1,4 +1,4 @@
-// pages/streamMediaRecorder/streamMediaRecorder.js
+// pages/vSixTwoZeroFourG/vSixTwoZeroFourG.js
 Page({
 
   /**
@@ -7,11 +7,7 @@ Page({
   data: {
 
   },
-  vSixTwoZeroFourGdj: function () {
-    wx.navigateTo({
-      url: "../vSixTwoZeroFourG/vSixTwoZeroFourG"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

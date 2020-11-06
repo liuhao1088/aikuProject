@@ -17,7 +17,7 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="xOneZeroZerodj">
     <image mode="widthFix"
       src="https://img13.360buyimg.com/ddimg/jfs/t1/130688/1/15061/226598/5fa5131bE20474bc7/17700b39ad27c7c4.jpg">
     </image>

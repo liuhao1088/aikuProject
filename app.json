@@ -5,7 +5,9 @@
     "pages/streamMediaRecorder/streamMediaRecorder",
     "pages/carMachineRecorder/carMachineRecorder",
     "pages/xThreeZeroZeroS/xThreeZeroZeroS",
+    "pages/xOneZeroZero/xOneZeroZero",
     
+
     "pages/hiddenRecorder/hiddenRecorder"
     
   ],

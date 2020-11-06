@@ -5,13 +5,19 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="drivingRecorderdj">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+    <image mode="widthFix"
+      src="https://img12.360buyimg.com/ddimg/jfs/t1/124006/20/17530/36822/5fa51b59Ecf02fa3d/d7a5a23cf508d4a2.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
     <image mode="widthFix"
       src="https://img11.360buyimg.com/ddimg/jfs/t1/142029/1/13355/270111/5fa51a5fE604b4744/dc90d1241b2cbac3.jpg">
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="streamMediaRecorderdj">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
     <image mode="widthFix"
       src="https://img11.360buyimg.com/ddimg/jfs/t1/128669/26/17705/260270/5fa51a79E0b2dac25/af2c74d560a1e1c2.jpg">
     </image>

@@ -2,7 +2,10 @@
   "pages":[
     "pages/index/index",
     "pages/drivingRecorder/drivingRecorder",
-    "pages/streamMediaRecorder/streamMediaRecorder"
+    "pages/streamMediaRecorder/streamMediaRecorder",
+    "pages/carMachineRecorder/carMachineRecorder",
+    "pages/hiddenRecorder/hiddenRecorder"
+    
   ],
   "window":{
     "backgroundTextStyle":"light",

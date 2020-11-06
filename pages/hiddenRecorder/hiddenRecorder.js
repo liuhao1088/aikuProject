@@ -1,4 +1,4 @@
-// pages/wode/wode.js
+// pages/hiddenRecorder/hiddenRecorder.js
 Page({
 
   /**
@@ -6,26 +6,6 @@ Page({
    */
   data: {
 
-  },
-  drivingRecorderdj: function () {
-    wx.navigateTo({
-      url: "../drivingRecorder/drivingRecorder"
-    })
-  },
-  streamMediaRecorderdj: function () {
-    wx.navigateTo({
-      url: "../streamMediaRecorder/streamMediaRecorder"
-    })
-  },
-  carMachineRecorderdj: function () {
-    wx.navigateTo({
-      url: "../carMachineRecorder/carMachineRecorder"
-    })
-  },
-  hiddenRecorderdj: function () {
-    wx.navigateTo({
-      url: "../hiddenRecorder/hiddenRecorder"
-    })
   },
 
   /**
@@ -46,13 +26,7 @@ Page({
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-    wx.showShareMenu({
 
-      withShareTicket: true,
-
-      menus: ['shareAppMessage', 'shareTimeline']
-
-    })
   },
 
   /**

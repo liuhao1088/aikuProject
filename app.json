@@ -1,7 +1,8 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/drivingRecorder/drivingRecorder"
+    "pages/drivingRecorder/drivingRecorder",
+    "pages/streamMediaRecorder/streamMediaRecorder"
   ],
   "window":{
     "backgroundTextStyle":"light",

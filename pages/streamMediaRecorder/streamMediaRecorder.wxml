@@ -1,0 +1,30 @@
+<view class="container">
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/141674/6/13449/196759/5fa51a30E08c59450/ebcf54b4612dbd17.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="drivingRecorderdj">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/142029/1/13355/270111/5fa51a5fE604b4744/dc90d1241b2cbac3.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="streamMediaRecorderdj">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/128669/26/17705/260270/5fa51a79E0b2dac25/af2c74d560a1e1c2.jpg">
+    </image>
+  </view>
+
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/132310/7/15007/15226/5fa50e68E5845e8a0/cac39f3830f6995f.jpg">
+      </image>
+    </view>
+  </view>
+
+
+</view>

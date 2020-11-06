@@ -1,28 +1,18 @@
-// pages/wode/wode.js
+// pages/streamMediaRecorder/streamMediaRecorder.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-  
+
   },
-  drivingRecorderdj:function(){
-    wx.navigateTo({
-       url: "../drivingRecorder/drivingRecorder"
-     })
- },
- streamMediaRecorderdj:function(){
-  wx.navigateTo({
-     url: "../streamMediaRecorder/streamMediaRecorder"
-   })
-},
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-   
+
   },
 
   /**
@@ -36,13 +26,7 @@ Page({
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-    wx.showShareMenu({
 
-      withShareTicket:true,
-      
-      menus:['shareAppMessage','shareTimeline']
-      
-      })
   },
 
   /**

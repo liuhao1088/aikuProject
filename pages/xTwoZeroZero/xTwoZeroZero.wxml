@@ -1,0 +1,27 @@
+<view class="container">
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
+        src="https://img14.360buyimg.com/ddimg/jfs/t1/140518/36/13485/1643139/5fa5283eE59015759/db9b21c30e49cc79.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img14.360buyimg.com/ddimg/jfs/t1/126620/27/17444/1452681/5fa52857Ef6f6dfd8/6072cbed7c03f702.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/132310/7/15007/15226/5fa50e68E5845e8a0/cac39f3830f6995f.jpg">
+      </image>
+    </view>
+  </view>
+
+  </view>
+
+  
+
+</view>

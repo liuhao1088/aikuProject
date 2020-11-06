@@ -1,4 +1,4 @@
-// pages/drivingRecorder/drivingRecorder.js
+// pages/aEightZeroZeroWiFi/aEightZeroZeroWiFi.js
 Page({
 
   /**
@@ -7,26 +7,7 @@ Page({
   data: {
 
   },
-  xThreeZeroZeroSdj: function () {
-    wx.navigateTo({
-      url: "../xThreeZeroZeroS/xThreeZeroZeroS"
-    })
-  },
-  xOneZeroZerodj: function () {
-    wx.navigateTo({
-      url: "../xOneZeroZero/xOneZeroZero"
-    })
-  },
-  xTwoZeroZerodj: function () {
-    wx.navigateTo({
-      url: "../xTwoZeroZero/xTwoZeroZero"
-    })
-  },
-  aEightZeroZeroWiFidj: function () {
-    wx.navigateTo({
-      url: "../aEightZeroZeroWiFi/aEightZeroZeroWiFi"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

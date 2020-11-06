@@ -29,7 +29,7 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="aEightZeroZeroWiFidj">
     <image mode="widthFix"
       src="https://img10.360buyimg.com/ddimg/jfs/t1/151969/35/4866/304440/5fa51342Ec3620344/ac982aeb3994029a.jpg">
     </image>

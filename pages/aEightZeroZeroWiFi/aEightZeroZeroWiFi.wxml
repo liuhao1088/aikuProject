@@ -1,0 +1,58 @@
+<view class="container">
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/128445/13/17833/1518730/5fa529fbE28afb58c/6dc371aa42864988.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/144538/21/13412/1445908/5fa52a0bE4f5a344c/230c8aae150a89a2.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/137699/28/13535/1904720/5fa52a2fE49facdcb/bea66343a5ef2cb2.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/141096/25/13348/1844723/5fa52a4aEf58c8cb4/0b42863f053ca3df.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/136165/2/15043/1517359/5fa52a5eE16ba46ee/2f0850a036da7991.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/150340/1/6215/1701847/5fa52a75E5dda22ee/93fbbd1016cf1898.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img13.360buyimg.com/ddimg/jfs/t1/130116/32/14922/1499414/5fa52a8bEa0fbe10e/ce42f709bbacc2d1.jpg">
+      </image>
+    </view>
+
+
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+      <view class="yxzc_div">
+        <image mode="widthFix"
+          src="https://img11.360buyimg.com/ddimg/jfs/t1/132310/7/15007/15226/5fa50e68E5845e8a0/cac39f3830f6995f.jpg">
+        </image>
+      </view>
+    </view>
+
+  </view>
+
+
+
+</view>

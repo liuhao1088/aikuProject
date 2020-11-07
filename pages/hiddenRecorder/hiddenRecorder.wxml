@@ -11,31 +11,25 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
-    <image mode="widthFix"
-      src="https://img11.360buyimg.com/ddimg/jfs/t1/142029/1/13355/270111/5fa51a5fE604b4744/dc90d1241b2cbac3.jpg">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="vSixSevenZeroFourGdj">
     <image mode="widthFix"
       src="https://img14.360buyimg.com/ddimg/jfs/t1/145995/1/13404/234802/5fa51ca0Ec4660ae5/da39ecd2a5f43d24.jpg">
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="vSixSevenZeroWiFidj">
     <image mode="widthFix"
       src="https://img14.360buyimg.com/ddimg/jfs/t1/140601/20/13344/243144/5fa51cb8Ef305a898/f3f755bc5c7dbe39.jpg">
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="vSevenZeroSevendj">
     <image mode="widthFix"
       src="https://img10.360buyimg.com/ddimg/jfs/t1/127037/1/17396/220330/5fa51cccE7736c5db/5bda61f6e80bea24.jpg">
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="">
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="vSevenZeroEightdj">
     <image mode="widthFix"
       src="https://img10.360buyimg.com/ddimg/jfs/t1/135268/22/14873/253388/5fa51ce4E5571b393/d11c49d993392389.jpg">
     </image>

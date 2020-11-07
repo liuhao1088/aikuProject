@@ -1,4 +1,4 @@
-// pages/hiddenRecorder/hiddenRecorder.js
+// pages/vSevenZeroSeven/vSevenZeroSeven.js
 Page({
 
   /**
@@ -7,26 +7,7 @@ Page({
   data: {
 
   },
-  vSixSevenZeroFourGdj: function () {
-    wx.navigateTo({
-      url: "../vSixSevenZeroFourG/vSixSevenZeroFourG"
-    })
-  },
-  vSixSevenZeroWiFidj: function () {
-    wx.navigateTo({
-      url: "../vSixSevenZeroWiFi/vSixSevenZeroWiFi"
-    })
-  },
-  vSevenZeroSevendj: function () {
-    wx.navigateTo({
-      url: "../vSevenZeroSeven/vSevenZeroSeven"
-    })
-  },
-  vSevenZeroEightdj: function () {
-    wx.navigateTo({
-      url: "../vSevenZeroEight/vSevenZeroEight"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

@@ -6,6 +6,17 @@
       </image>
     </view>
 
+    <view class="tag_maxdiv" style="width: 90%;">
+      <view class="video_div">
+        <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
+          src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E8%89%BE%E9%85%B7/%E8%89%BE%E9%85%B7V708%E6%88%90%E7%89%8701.m4v?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604885325;2468798925&q-key-time=1604885325;2468798925&q-header-list=&q-url-param-list=&q-signature=532ddeb41c5900792a2a2c401775a631a5e10dd0"
+          binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
+          play-btn-position="center">
+        </video>
+      </view>
+
+    </view>
+
     <view class="tag_maxdiv" style="margin-top: 20rpx;">
       <image mode="widthFix"
         src="https://img14.360buyimg.com/ddimg/jfs/t1/139304/19/13468/1585545/5fa5ff9aEc03f6b29/c58b70d2231d64c9.jpg">

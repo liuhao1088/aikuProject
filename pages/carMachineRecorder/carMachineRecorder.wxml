@@ -1,45 +1,57 @@
 <view class="container">
   <view class="tag_maxdiv">
     <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/131637/14/15150/198045/5fa51b00E94b6203f/f7f263c4bfb42d8d.jpg">
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/126268/5/18108/198021/5fa8e38dE8732a811/67be166e31794aa4.jpg">
     </image>
   </view>
 
   <view class="tag_maxdiv" style="margin-top: -12rpx;">
     <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/143466/14/13514/34105/5fa51b10E22c782ab/62aad443d3c57432.jpg">
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/149573/11/13905/34105/5fa8e3afE4a1e9511/a6b5b6b5e13fa8bb.jpg">
     </image>
   </view>
 
   <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="ardj">
     <image mode="widthFix"
-      src="https://img11.360buyimg.com/ddimg/jfs/t1/122718/16/17729/280033/5fa51b20E65b89a32/5ccc86514c763984.jpg">
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/154766/32/5219/279894/5fa8e3beE76db7c8c/b49460df80fbcba1.jpg">
     </image>
   </view>
 
   <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="wThreeprodj">
     <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/139365/8/13386/271151/5fa51bb6Efc936d5a/5cc08c335a03bcc4.jpg">
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/144102/14/13666/271064/5fa8e3cdE63250c26/417ac5ad0efbb84b.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="wThreeprodj">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/140763/6/13699/275187/5fa8e3edE1c978435/7681bf48b2b1eb61.jpg">
     </image>
   </view>
 
   <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="wSixprodj">
     <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/153952/22/4861/272234/5fa51bcdE3381651b/14b6cc44920bfa45.jpg">
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/131641/2/15300/270398/5fa8e401E7443718e/606e3d19831dabc9.jpg">
+    </image>
+  </view>
+
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="wSixprodj">
+    <image mode="widthFix"
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/142843/34/13701/267918/5fa8e465E65a9518d/919e6484eacdeb09.jpg">
     </image>
   </view>
 
   <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="threeSixZeroWiFidj">
     <image mode="widthFix"
-      src="https://img11.360buyimg.com/ddimg/jfs/t1/120610/5/17617/308081/5fa51be2E391c1211/0dac2d10cd35f844.jpg">
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/139408/11/13649/319521/5fa8e47dEedfae527/6b52b70114adf470.jpg">
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="aFivesPlusdj">
+  <!-- <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="aFivesPlusdj">
     <image mode="widthFix"
       src="https://img10.360buyimg.com/ddimg/jfs/t1/131278/37/14858/294662/5fa51bf3E531deb04/c53bac0dcd86c5b1.jpg">
     </image>
-  </view>
+  </view> -->
 
   
 

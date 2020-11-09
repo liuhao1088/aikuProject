@@ -43,12 +43,17 @@
 
 
   <view class="tag_maxdiv">
-    <view class="yxzc_div">
-      <image mode="widthFix"
-        src="https://img11.360buyimg.com/ddimg/jfs/t1/132310/7/15007/15226/5fa50e68E5845e8a0/cac39f3830f6995f.jpg">
-      </image>
-    </view>
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/132310/7/15007/15226/5fa50e68E5845e8a0/cac39f3830f6995f.jpg">
+    </image>
   </view>
 
 
+  <view class="tag_maxdiv" style="margin-top: -12rpx;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/123395/39/17936/1326097/5fa8dd91E1f1e05b3/7134724c84a8a5b3.jpg">
+      </image>
+    </view>
+  </view>
 </view>

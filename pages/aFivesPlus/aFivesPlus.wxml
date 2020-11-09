@@ -1,0 +1,39 @@
+<view class="container">
+  <view class="maxdiv">
+    <view class="tag_maxdiv" style="width: 100%;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
+        src="https://img10.360buyimg.com/ddimg/jfs/t1/125375/4/17483/1759210/5fa52fd2Eaa236659/cc58bc40539091d0.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img14.360buyimg.com/ddimg/jfs/t1/138614/2/13455/1675433/5fa52fe5Eaff1b0db/5c72d3aa9fd4af34.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/122552/20/17731/1751952/5fa52ffaE9fa70101/6c958616c094209e.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="margin-top: 20rpx;">
+      <image mode="widthFix"
+        src="https://img12.360buyimg.com/ddimg/jfs/t1/155480/39/4949/1817118/5fa53011E4ec238d2/acaacd825e23f057.jpg">
+      </image>
+    </view>
+
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
+    <view class="yxzc_div">
+      <image mode="widthFix"
+        src="https://img11.360buyimg.com/ddimg/jfs/t1/132310/7/15007/15226/5fa50e68E5845e8a0/cac39f3830f6995f.jpg">
+      </image>
+    </view>
+  </view>
+
+  </view>
+
+  
+
+</view>

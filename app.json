@@ -10,10 +10,18 @@
     "pages/aEightZeroZeroWiFi/aEightZeroZeroWiFi",
     "pages/vSixTwoZeroFourG/vSixTwoZeroFourG",
     "pages/xEightZeroZeroA/xEightZeroZeroA",
+<<<<<<< Updated upstream
     "pages/vSixSevenZeroFourG/vSixSevenZeroFourG",
     "pages/vSixSevenZeroWiFi/vSixSevenZeroWiFi",
     "pages/vSevenZeroSeven/vSevenZeroSeven",
     "pages/vSevenZeroEight/vSevenZeroEight",
+=======
+    "pages/ar/ar",
+    "pages/wThreepro/wThreepro",
+    "pages/threeSixZeroWiFi/threeSixZeroWiFi",
+    "pages/aFivesPlus/aFivesPlus",
+    "pages/wSixpro/wSixpro",
+>>>>>>> Stashed changes
     
     "pages/hiddenRecorder/hiddenRecorder"
     

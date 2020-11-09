@@ -1,4 +1,4 @@
-// pages/carMachineRecorder/carMachineRecorder.js
+// pages/aFivesPlus/aFivesPlus.js
 Page({
 
   /**
@@ -7,31 +7,7 @@ Page({
   data: {
 
   },
-  ardj: function () {
-    wx.navigateTo({
-      url: "../ar/ar"
-    })
-  },
-  wThreeprodj: function () {
-    wx.navigateTo({
-      url: "../wThreepro/wThreepro"
-    })
-  },
-  threeSixZeroWiFidj: function () {
-    wx.navigateTo({
-      url: "../threeSixZeroWiFi/threeSixZeroWiFi"
-    })
-  },
-  aFivesPlusdj: function () {
-    wx.navigateTo({
-      url: "../aFivesPlus/aFivesPlus"
-    })
-  },
-  wSixprodj: function () {
-    wx.navigateTo({
-      url: "../wSixpro/wSixpro"
-    })
-  },
+
   /**
    * 生命周期函数--监听页面加载
    */

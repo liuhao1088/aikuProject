@@ -20,7 +20,7 @@
     <view class="tag_maxdiv" style="margin-top: 20rpx;">
       <image mode="widthFix"
         src="https://img14.360buyimg.com/ddimg/jfs/t1/139304/19/13468/1585545/5fa5ff9aEc03f6b29/c58b70d2231d64c9.jpg">
-        
+
       </image>
     </view>
 
@@ -36,7 +36,7 @@
       </image>
     </view>
 
-   
+
 
     <view class="tag_maxdiv" style="margin-top: 20rpx;">
       <image mode="widthFix"
@@ -56,16 +56,14 @@
       </image>
     </view>
 
-    <view class="tag_maxdiv" style="width: 100%;margin-top: 60rpx;">
-    <view class="yxzc_div">
-      <image mode="widthFix"
+    <view class="tag_maxdiv" style="width: 100%;margin-top: 40rpx;">
+      <image mode="widthFix" style="border-radius: 0rpx;"
         src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
       </image>
     </view>
-  </view>
 
   </view>
 
-  
+
 
 </view>

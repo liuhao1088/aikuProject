@@ -25,3 +25,11 @@ image {
   background-color: #1e1e1e;
   float: left;
 }
+
+.video_div{
+  height: 385rpx;
+  width: 100%;
+  border:0rpx white solid;
+  margin-top: 60rpx;
+  padding-bottom: 60rpx;
+}

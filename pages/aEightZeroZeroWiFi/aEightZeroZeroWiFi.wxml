@@ -6,26 +6,9 @@
       </image>
     </view>
 
-    <view class="tag_maxdiv" style="width: 90%;">
-      <view class="video_div">
-        <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
-          src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E8%89%BE%E9%85%B7/%E8%89%BE%E9%85%B7A800.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604886025;2468799625&q-key-time=1604886025;2468799625&q-header-list=&q-url-param-list=&q-signature=dbedb3fd0fcbd52f505909f41d53cc9989248fcd"
-          binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
-          play-btn-position="center">
-        </video>
-      </view>
-
-    </view>
-
     <view class="tag_maxdiv" style="margin-top: 20rpx;">
       <image mode="widthFix"
         src="https://img11.360buyimg.com/ddimg/jfs/t1/144538/21/13412/1445908/5fa52a0bE4f5a344c/230c8aae150a89a2.jpg">
-      </image>
-    </view>
-
-    <view class="tag_maxdiv" style="margin-top: 20rpx;">
-      <image mode="widthFix"
-        src="https://img11.360buyimg.com/ddimg/jfs/t1/137699/28/13535/1904720/5fa52a2fE49facdcb/bea66343a5ef2cb2.jpg">
       </image>
     </view>
 

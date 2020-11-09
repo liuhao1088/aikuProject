@@ -23,6 +23,12 @@
     </image>
   </view>
 
+  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="wSixprodj">
+    <image mode="widthFix"
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/153952/22/4861/272234/5fa51bcdE3381651b/14b6cc44920bfa45.jpg">
+    </image>
+  </view>
+
   <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="threeSixZeroWiFidj">
     <image mode="widthFix"
       src="https://img11.360buyimg.com/ddimg/jfs/t1/120610/5/17617/308081/5fa51be2E391c1211/0dac2d10cd35f844.jpg">
@@ -35,11 +41,7 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="wSixprodj">
-    <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/153952/22/4861/272234/5fa51bcdE3381651b/14b6cc44920bfa45.jpg">
-    </image>
-  </view>
+  
 
 
   <view class="tag_maxdiv" style="margin-top: -12rpx;">

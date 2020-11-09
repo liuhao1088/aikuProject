@@ -26,9 +26,9 @@ image {
 }
 
 .video_div{
-  height: 500rpx;
+  height: 385rpx;
   width: 100%;
   border:0rpx white solid;
   margin-top: 60rpx;
-  padding-bottom: 60rpx;
+  padding-bottom: 40rpx;
 }

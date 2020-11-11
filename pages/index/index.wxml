@@ -7,13 +7,13 @@
 
   <view class="tag_maxdiv" bindtap="drivingRecorderdj">
     <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/153342/36/4999/293178/5fa50ceaEbaf066ff/8074cb4712c4547c.jpg">
+      src="https://img10.360buyimg.com/ddimg/jfs/t1/123637/15/17494/291725/5faba862E04c0cec5/cdcc9f7764525197.jpg">
     </image>
   </view>
 
   <view class="tag_maxdiv" bindtap="streamMediaRecorderdj">
     <image mode="widthFix"
-      src="https://img11.360buyimg.com/ddimg/jfs/t1/125491/1/17574/240476/5fa50d93E52e7be5d/0616c71d64d3b99c.jpg">
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/141938/26/14048/239116/5faba87dE0e5ba67d/4d53ee51964e5fb3.jpg">
     </image>
   </view>
 
@@ -25,7 +25,7 @@
 
   <view class="tag_maxdiv" bindtap="hiddenRecorderdj">
     <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/133120/23/15077/198298/5fa50e1cE6e75d354/f36948382f9df2a4.jpg">
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/141438/33/14210/197242/5faba893E8bab9165/37e5584a95456ff6.jpg">
     </image>
   </view>
 

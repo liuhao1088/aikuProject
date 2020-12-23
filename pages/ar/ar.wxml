@@ -1,27 +1,2 @@
-<view class="container">
-  <view class="maxdiv">
-    <view class="tag_maxdiv" style="width: 100%;">
-      <image mode="widthFix" style="border-radius: 0rpx;"
-        src="https://img13.360buyimg.com/ddimg/jfs/t1/140107/6/13539/1791940/5fa52e33E225f0d0f/256757ff34593c7c.jpg">
-      </image>
-    </view>
-
-    <view class="tag_maxdiv" style="margin-top: 20rpx;">
-      <image mode="widthFix"
-        src="https://img14.360buyimg.com/ddimg/jfs/t1/148866/29/13433/1692250/5fa52e4cE2076d77e/a6a5d989edea5644.jpg">
-      </image>
-    </view>
-
-    <view class="tag_maxdiv" style="width: 100%;margin-top: 40rpx;">
-    
-      <image mode="widthFix" style="border-radius: 0rpx;"
-        src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
-      </image>
-
-  </view>
-
-  </view>
-
-  
-
-</view>
+<import src="/template/myTemplate.wxml"></import>
+<template is="detail" data="{{...item}}"></template>

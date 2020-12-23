@@ -11,50 +11,11 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" bindtap="ardj">
+  <view class="tag_maxdiv" data-index="{{index}}" wx:for="{{detailsList}}" wx:key="id" bindtap="toDetails">
     <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/154766/32/5219/279894/5fa8e3beE76db7c8c/b49460df80fbcba1.jpg">
+      src="{{item}}">
     </image>
   </view>
-
-  <view class="tag_maxdiv" bindtap="wThreeprodj">
-    <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/150829/8/6114/274218/5fa9ed53E0c14e7e7/96657d3c18c61eaa.jpg">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="wThreeprodj">
-    <image mode="widthFix"
-      src="https://img12.360buyimg.com/ddimg/jfs/t1/141725/16/13917/278136/5fa9f766E720d8533/114ef5139b7d5e06.jpg">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="wSixprodj">
-    <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/139602/14/13937/273142/5fa9ed8cE31708fed/40a3fdda5f4fbe6c.jpg">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="wSixprodj">
-    <image mode="widthFix"
-      src="https://img11.360buyimg.com/ddimg/jfs/t1/141146/13/13888/271346/5fa9f786E3516089a/8ceba6b7637d6bc7.jpg">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="threeSixZeroWiFidj">
-    <image mode="widthFix"
-      src="https://img13.360buyimg.com/ddimg/jfs/t1/139408/11/13649/319521/5fa8e47dEedfae527/6b52b70114adf470.jpg">
-    </image>
-  </view>
-
-  <!-- <view class="tag_maxdiv" style="margin-top: -12rpx;" bindtap="aFivesPlusdj">
-    <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/131278/37/14858/294662/5fa51bf3E531deb04/c53bac0dcd86c5b1.jpg">
-    </image>
-  </view> -->
-
-  
-
 
   <view class="tag_maxdiv">
       <image mode="widthFix"

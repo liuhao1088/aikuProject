@@ -1,10 +1,11 @@
 {
   "pages":[
+    "pages/hiddenRecorder/hiddenRecorder",
     "pages/index/index",
-    "pages/streamMediaRecorder/streamMediaRecorder",
-    
-    "pages/drivingRecorder/drivingRecorder",
     "pages/carMachineRecorder/carMachineRecorder",
+   
+    "pages/streamMediaRecorder/streamMediaRecorder",
+    "pages/drivingRecorder/drivingRecorder",
     "pages/xThreeZeroZeroS/xThreeZeroZeroS",
     "pages/xOneZeroZero/xOneZeroZero",
     "pages/xTwoZeroZero/xTwoZeroZero",
@@ -19,8 +20,8 @@
     "pages/wThreepro/wThreepro",
     "pages/threeSixZeroWiFi/threeSixZeroWiFi",
     "pages/aFivesPlus/aFivesPlus",
-    "pages/wSixpro/wSixpro",
-    "pages/hiddenRecorder/hiddenRecorder"
+    "pages/wSixpro/wSixpro"
+    
   ],
   "window":{
     "backgroundTextStyle":"light",

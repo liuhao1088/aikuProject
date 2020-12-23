@@ -5,55 +5,22 @@
     </image>
   </view>
 
-  <view class="tag_maxdiv" bindtap="drivingRecorderdj">
+  <view class="tag_maxdiv" data-index="{{index}}" wx:for="{{detailsList}}" wx:key="id" bindtap="toDetails">
     <image mode="widthFix"
-      src="https://img10.360buyimg.com/ddimg/jfs/t1/123637/15/17494/291725/5faba862E04c0cec5/cdcc9f7764525197.jpg">
+      src="{{item}}">
     </image>
   </view>
 
-  <view class="tag_maxdiv" bindtap="streamMediaRecorderdj">
-    <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/141938/26/14048/239116/5faba87dE0e5ba67d/4d53ee51964e5fb3.jpg">
-    </image>
+  <view class="video_div">
+    <video class="video_nr"
+      src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E8%89%BE%E9%85%B7/%E8%89%BE%E9%85%B7X1000%203.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604659003;2468572603&q-key-time=1604659003;2468572603&q-header-list=&q-url-param-list=&q-signature=f974b9ff90371a11acd6705d98132469f92ee1f4"
+      object-fit="cover">
+    </video>
   </view>
-  
-  <view class="tag_maxdiv" bindtap="hiddenRecorderdj">
-    <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/141438/33/14210/197242/5faba893E8bab9165/37e5584a95456ff6.jpg">
-    </image>
-  </view>
-
-  <view class="tag_maxdiv" bindtap="carMachineRecorderdj">
-    <image mode="widthFix"
-      src="https://img14.360buyimg.com/ddimg/jfs/t1/126540/36/17764/255596/5fabab7dE6ee93686/bbbbbdcc8fa5163f.jpg">
-    </image>
-  </view>
-
-  
-
-  <view class="tag_maxdiv" style="width: 90%;">
-    <view class="video_div">
-      <video style="width: 100%;height: 100%;" id="video{{index}}" bindtap="video_play"
-        src="https://fnck-20200914-1303154931.cos.ap-guangzhou.myqcloud.com/%E8%A7%86%E9%A2%91/%E8%89%BE%E9%85%B7/%E8%89%BE%E9%85%B7X1000%203.mp4?q-sign-algorithm=sha1&q-ak=AKIDHL7fPrFwXrtdX9SYLq75j5BxTeFbR3KK&q-sign-time=1604659003;2468572603&q-key-time=1604659003;2468572603&q-header-list=&q-url-param-list=&q-signature=f974b9ff90371a11acd6705d98132469f92ee1f4"
-        binderror="videoErrorCallback" show-center-play-btn="true" controls auto-pause-if-navigate
-        play-btn-position="center">
-      </video>
-    </view>
-
-  </view>
-
-
 
   <view class="tag_maxdiv">
     <image mode="widthFix"
       src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
     </image>
   </view>
-
-
-  <!-- <view class="tag_maxdiv">
-      <image mode="widthFix"
-        src="https://img11.360buyimg.com/ddimg/jfs/t1/123395/39/17936/1326097/5fa8dd91E1f1e05b3/7134724c84a8a5b3.jpg">
-      </image>
-  </view> -->
 </view>

@@ -5,18 +5,24 @@ Page({
    * 页面的初始数据
    */
   data: {
+    detailsList: [
+      'https://img10.360buyimg.com/ddimg/jfs/t1/152140/30/5284/270241/5fa8e343Ebf8120c1/d83b17bd2781816a.jpg',
+      'https://img14.360buyimg.com/ddimg/jfs/t1/149637/1/13745/256291/5fa8e351Ef01d5dae/cf87120375152b7d.jpg',
+    ]
+  },
+  toDetails(e) {
+    let index = e.currentTarget.dataset.index;
+    if (index === 0) {
+      wx.navigateTo({
+        url: "../vSixTwoZeroFourG/vSixTwoZeroFourG"
+      })  
+    } else {
+      wx.navigateTo({
+        url: "../xEightZeroZeroA/xEightZeroZeroA"
+      })
+    }
+  },
 
-  },
-  vSixTwoZeroFourGdj: function () {
-    wx.navigateTo({
-      url: "../vSixTwoZeroFourG/vSixTwoZeroFourG"
-    })
-  },
-  xEightZeroZeroAdj: function () {
-    wx.navigateTo({
-      url: "../xEightZeroZeroA/xEightZeroZeroA"
-    })
-  },
   /**
    * 生命周期函数--监听页面加载
    */

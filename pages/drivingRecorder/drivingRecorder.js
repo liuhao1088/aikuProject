@@ -5,27 +5,32 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    detailsList: [
+      'https://img12.360buyimg.com/ddimg/jfs/t1/144767/10/13784/309790/5fa8e298Ef6cebb88/88814058dc288230.jpg',
+      'https://img12.360buyimg.com/ddimg/jfs/t1/137570/22/15211/226395/5fa8e2acE4030bfbf/5961eae823fb32c4.jpg',
+      'https://img12.360buyimg.com/ddimg/jfs/t1/132162/28/15487/320045/5fa91e57Ec6fc4ab2/7e30b234845cad07.jpg',
+      'https://img14.360buyimg.com/ddimg/jfs/t1/141238/39/13694/304440/5fa8e2d1Eea33fcac/875a18d3eaa58831.jpg',
+    ]
   },
-  xThreeZeroZeroSdj: function () {
-    wx.navigateTo({
-      url: "../xThreeZeroZeroS/xThreeZeroZeroS"
-    })
-  },
-  xOneZeroZerodj: function () {
-    wx.navigateTo({
-      url: "../xOneZeroZero/xOneZeroZero"
-    })
-  },
-  xTwoZeroZerodj: function () {
-    wx.navigateTo({
-      url: "../xTwoZeroZero/xTwoZeroZero"
-    })
-  },
-  aEightZeroZeroWiFidj: function () {
-    wx.navigateTo({
-      url: "../aEightZeroZeroWiFi/aEightZeroZeroWiFi"
-    })
+  toDetails(e) {
+    let index = e.currentTarget.dataset.index;
+    if (index === 0) {
+      wx.navigateTo({
+        url: "../xThreeZeroZeroS/xThreeZeroZeroS"
+      })
+    } else if (index === 1) {
+      wx.navigateTo({
+        url: "../xOneZeroZero/xOneZeroZero"
+      })
+    } else if (index === 2) {
+      wx.navigateTo({
+        url: "../xTwoZeroZero/xTwoZeroZero"
+      })
+    } else {
+      wx.navigateTo({
+        url: "../aEightZeroZeroWiFi/aEightZeroZeroWiFi"
+      })
+    }
   },
   /**
    * 生命周期函数--监听页面加载

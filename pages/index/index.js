@@ -5,27 +5,34 @@ Page({
    * 页面的初始数据
    */
   data: {
+    detailsList: [
+      'https://img10.360buyimg.com/ddimg/jfs/t1/123637/15/17494/291725/5faba862E04c0cec5/cdcc9f7764525197.jpg',
+      'https://img14.360buyimg.com/ddimg/jfs/t1/141938/26/14048/239116/5faba87dE0e5ba67d/4d53ee51964e5fb3.jpg',
+      'https://img14.360buyimg.com/ddimg/jfs/t1/141438/33/14210/197242/5faba893E8bab9165/37e5584a95456ff6.jpg',
+      'https://img14.360buyimg.com/ddimg/jfs/t1/126540/36/17764/255596/5fabab7dE6ee93686/bbbbbdcc8fa5163f.jpg',
+    ]
+  },
 
-  },
-  drivingRecorderdj: function () {
-    wx.navigateTo({
-      url: "../drivingRecorder/drivingRecorder"
-    })
-  },
-  streamMediaRecorderdj: function () {
-    wx.navigateTo({
-      url: "../streamMediaRecorder/streamMediaRecorder"
-    })
-  },
-  carMachineRecorderdj: function () {
-    wx.navigateTo({
-      url: "../carMachineRecorder/carMachineRecorder"
-    })
-  },
-  hiddenRecorderdj: function () {
-    wx.navigateTo({
-      url: "../hiddenRecorder/hiddenRecorder"
-    })
+  toDetails(e) {
+    let index = e.currentTarget.dataset.index;
+    if (index === 0) {
+      wx.navigateTo({
+        url: "../drivingRecorder/drivingRecorder"
+      })
+    } else if (index === 1) {
+      wx.navigateTo({
+        url: "../streamMediaRecorder/streamMediaRecorder"
+      })
+    } else if (index === 2) {
+      wx.navigateTo({
+        url: "../hiddenRecorder/hiddenRecorder"
+      })
+      
+    } else {
+      wx.navigateTo({
+        url: "../carMachineRecorder/carMachineRecorder"
+      })
+    }
   },
 
   /**

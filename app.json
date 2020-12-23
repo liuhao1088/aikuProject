@@ -1,8 +1,9 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/drivingRecorder/drivingRecorder",
     "pages/streamMediaRecorder/streamMediaRecorder",
+    
+    "pages/drivingRecorder/drivingRecorder",
     "pages/carMachineRecorder/carMachineRecorder",
     "pages/xThreeZeroZeroS/xThreeZeroZeroS",
     "pages/xOneZeroZero/xOneZeroZero",
@@ -19,16 +20,14 @@
     "pages/threeSixZeroWiFi/threeSixZeroWiFi",
     "pages/aFivesPlus/aFivesPlus",
     "pages/wSixpro/wSixpro",
-    
     "pages/hiddenRecorder/hiddenRecorder"
-    
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "Weixin",
     "navigationBarTextStyle":"black",
-    "navigationStyle": "default"
+    "navigationStyle": "custom"
   },
   "sitemapLocation": "sitemap.json"
 }

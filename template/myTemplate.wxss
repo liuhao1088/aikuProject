@@ -1,0 +1,15 @@
+/* .container{
+  padding-bottom: 60rpx;
+} */
+
+image {
+  height: 100vh;
+  border-radius: 10rpx;
+}
+
+.tag_maxdiv {
+  width: 90%;
+  float: left;
+  margin-top: 30rpx;
+}
+

@@ -1,43 +1,24 @@
 <view class="container">
-    <view class="tag_maxdiv">
-      <image mode="widthFix"
-        src="https://img13.360buyimg.com/ddimg/jfs/t1/137733/1/13846/219768/5fa8e26aE94e8675f/c27eb945bf9d2ae3.jpg">
-      </image>
-    </view>
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img13.360buyimg.com/ddimg/jfs/t1/137733/1/13846/219768/5fa8e26aE94e8675f/c27eb945bf9d2ae3.jpg">
+    </image>
+  </view>
 
-    <view class="tag_maxdiv">
-      <image mode="widthFix"
-        src="https://img11.360buyimg.com/ddimg/jfs/t1/146555/39/14213/32093/5faba8c4Ed4470756/2a2458163f0a5c9f.jpg">
-      </image>
-    </view>
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img11.360buyimg.com/ddimg/jfs/t1/146555/39/14213/32093/5faba8c4Ed4470756/2a2458163f0a5c9f.jpg">
+    </image>
+  </view>
 
-    <view class="tag_maxdiv" bindtap="xThreeZeroZeroSdj">
-      <image mode="widthFix"
-        src="https://img12.360buyimg.com/ddimg/jfs/t1/144767/10/13784/309790/5fa8e298Ef6cebb88/88814058dc288230.jpg">
-      </image>
-    </view>
+  <view class="tag_maxdiv" data-index="{{index}}" wx:for="{{detailsList}}" wx:key="id" bindtap="toDetails">
+    <image mode="widthFix" src="{{item}}">
+    </image>
+  </view>
 
-    <view class="tag_maxdiv" bindtap="xOneZeroZerodj">
-      <image mode="widthFix"
-        src="https://img12.360buyimg.com/ddimg/jfs/t1/137570/22/15211/226395/5fa8e2acE4030bfbf/5961eae823fb32c4.jpg">
-      </image>
-    </view>
-
-    <view class="tag_maxdiv" bindtap="xTwoZeroZerodj">
-      <image mode="widthFix" class="display_style"
-        src="https://img12.360buyimg.com/ddimg/jfs/t1/132162/28/15487/320045/5fa91e57Ec6fc4ab2/7e30b234845cad07.jpg">
-      </image>
-    </view>
-
-    <view class="tag_maxdiv" bindtap="aEightZeroZeroWiFidj">
-      <image mode="widthFix"
-        src="https://img14.360buyimg.com/ddimg/jfs/t1/141238/39/13694/304440/5fa8e2d1Eea33fcac/875a18d3eaa58831.jpg">
-      </image>
-    </view>
-
-    <view class="tag_maxdiv" >
-      <image mode="widthFix"
-        src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
-      </image>
-    </view>
+  <view class="tag_maxdiv">
+    <image mode="widthFix"
+      src="https://img14.360buyimg.com/ddimg/jfs/t1/120231/23/17943/15813/5fa8f6ffEd23cf49e/e8b387abaa5228ff.jpg">
+    </image>
+  </view>
 </view>

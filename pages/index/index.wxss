@@ -1,22 +1,4 @@
 .tag_maxdiv {
   width: 100%;
   float: left;
-
-}
-
-image {
-  height: 100%;
-  width: 100%;
-  vertical-align: middle;
-  text-align: center;
-}
-
-
-
-.video_div {
-  height: 385rpx;
-  width: 100%;
-  border: 0rpx white solid;
-  margin-top: 60rpx;
-  padding-bottom: 60rpx;
 }

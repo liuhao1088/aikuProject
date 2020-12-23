@@ -6,6 +6,9 @@ Page({
    */
   data: {
     detailsList: [
+      'https://img14.360buyimg.com/ddimg/jfs/t1/150159/17/19656/68129/5fe31944Ec65b917e/bfdc26e6cebfe563.png',
+      'https://img10.360buyimg.com/ddimg/jfs/t1/149808/32/19799/79678/5fe31957E4b6a37ff/6df57377c7db1395.png',
+      'https://img10.360buyimg.com/ddimg/jfs/t1/143305/14/19930/96129/5fe31965E69d49e4f/874fa61811f46810.png',
       'https://img14.360buyimg.com/ddimg/jfs/t1/142726/4/13690/230221/5fa8e4f9E4a2a981d/4e5783d3998d72d8.jpg',
       'https://img14.360buyimg.com/ddimg/jfs/t1/129479/28/18003/240073/5fa8e511E5cfc19f6/3a8d6b127bf70423.jpg',
       'https://img14.360buyimg.com/ddimg/jfs/t1/155527/20/5308/216831/5fa8e524Ecaa2e0f9/b4fb5de2c80c17fe.jpg',
@@ -16,13 +19,25 @@ Page({
     let index = e.currentTarget.dataset.index;
     if (index === 0) {
       wx.navigateTo({
-        url: "../vSixSevenZeroFourG/vSixSevenZeroFourG"
+        url: "../vSevenZeroNine/vSevenZeroNine"
       })
     } else if (index === 1) {
       wx.navigateTo({
-        url: "../vSixSevenZeroWiFi/vSixSevenZeroWiFi"
+        url: "../vSevenZeroNinem/vSevenZeroNinem"
       })
     } else if (index === 2) {
+      wx.navigateTo({
+        url: "../vSevenZeroNineAr/vSevenZeroNineAr"
+      })
+    } else if (index === 3) {
+      wx.navigateTo({
+        url: "../vSixSevenZeroFourG/vSixSevenZeroFourG"
+      })
+    } else if (index === 4) {
+      wx.navigateTo({
+        url: "../vSixSevenZeroWiFi/vSixSevenZeroWiFi"
+      })
+    } else if (index === 5) {
       wx.navigateTo({
         url: "../vSevenZeroSeven/vSevenZeroSeven"
       })
@@ -31,9 +46,17 @@ Page({
         url: "../vSevenZeroEight/vSevenZeroEight"
       })
     }
+
+    // } else if (index === 1) {
+
+    // } else if (index === 2) {
+
+    // } else {
+
+    // }
   },
 
- 
+
   /**
    * 生命周期函数--监听页面加载
    */
